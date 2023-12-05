@@ -1,0 +1,1 @@
+/home/sc2046/Projects/rust/advent_of_code_2023/day-02/target/debug/part-2: /home/sc2046/Projects/rust/advent_of_code_2023/day-02/src/bin/input.txt /home/sc2046/Projects/rust/advent_of_code_2023/day-02/src/bin/part-2.rs
